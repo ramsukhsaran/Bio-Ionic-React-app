@@ -1,0 +1,11 @@
+.biorythm-card .emotional{
+    color:var(--app-emotional-color)
+}
+.biorythm-card .phy{
+    color:var(--app-physical-color);
+} 
+
+.biorythm-card  .int{
+    color:var(--app-intellectual-color);
+}
+
